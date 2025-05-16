@@ -1,0 +1,3 @@
+string sensor_name  # Name of the faulty sensor
+---
+bool success        # Success or failure of error handling
