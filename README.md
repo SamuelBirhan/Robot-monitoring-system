@@ -62,7 +62,7 @@ The system is divided into three main node types:
 
 The architecture of the system is illustrated below:
 
-![System Diagram](monitoring_system.png)
+![System Diagram](system_diagram.png)
 
 
 ## Testing Tips
